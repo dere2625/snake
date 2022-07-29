@@ -1,0 +1,15 @@
+.column{
+    width: 10px;
+    height: 10px;
+    /* border: 0.5px black solid; */
+}
+
+body{
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.on{
+    background-color: black;
+}
